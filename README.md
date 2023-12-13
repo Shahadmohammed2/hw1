@@ -1,7 +1,7 @@
 # Search-in-Software-Engineering-Homework-1
 Ted-ed is a website and educational platform associated with TED conference. It offers a collection of educational videos and lessons created by educators and experts on a wide range of topics, designed to promote learning and knowledge sharing. These lessons are mostly in the form of animated videos.
 
-# # Services Provided by Ted-ed's: 
+# Services Provided by Ted-ed's: 
 * Ted-Ed provides a library of animated educational videos in different topics like:
 * art
 * history
